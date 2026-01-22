@@ -1,4 +1,4 @@
-"তোর কি চোখে পড়ে না আমি মিলন বস এর সাথে ব্যাস্ত আসি😒", axios = require("axios");
+ axios = require("axios");
 const simsim = "https://api.cyber-ninjas.top";
 
 module.exports = {
@@ -205,7 +205,4 @@ module.exports = {
         }
       }
     } catch (err) {
-      console.error("❌ Baby onChat error:", err);
-    }
-  }
-};
+      console.error("❌ Baby onChat error:", err)ios
